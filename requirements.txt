@@ -1,0 +1,5 @@
+signalwire==2.1.1
+boto3
+google-api-python-client
+google-auth
+google-auth-oauthlib

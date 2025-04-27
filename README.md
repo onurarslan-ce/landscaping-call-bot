@@ -1,1 +1,0 @@
-# Landscaping Call-Bot
